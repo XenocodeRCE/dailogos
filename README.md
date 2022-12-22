@@ -1,2 +1,2 @@
 # 🤖💬D***ai***logos
-AI-generated dialogues between two philosophers, using OpenAI's GPT-3
+Des dialogues entre deux philosophes sur un sujet donné. Généré par GPT-3
